@@ -1,13 +1,13 @@
 {
-  //Versionen die behalten werden sollen
+  //Version threshold to keep
   "VersionsToKeep": "3",
-  //Username eintragen | Admin
+  //Enter Username | Admin
   "Username": "",
   //Tenant von Sharepoint eintragen ohne https://
   "TenantURL": "", 
   //
   "ClientID" : "",
-  //Schwellenwert Storage zum Abarbeiten
+  //Execution Consideration based on storage capacity of the sites
   "storagethreshold": "10",
   //Cert
   "Base64EncodedCert": ""
